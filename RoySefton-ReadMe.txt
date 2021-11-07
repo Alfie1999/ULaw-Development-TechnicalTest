@@ -1,4 +1,4 @@
-**Roy Sefton comments**
+Roy Sefton comments
 =============================
 
 I've used SOLID principles to refactor this code
